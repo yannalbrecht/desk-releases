@@ -2,12 +2,15 @@
 
 **A private portfolio desk that runs on your own computer.** See your whole book, how it's really doing against the index you could have bought instead, what it's exposed to, and what the great investors' rules would say about each holding. No account, no cloud, no subscription. Your data never leaves your machine.
 
-![Desk overview](assets/overview.png)
+<p align="center"><a href="assets/desk-explainer.mp4"><img src="assets/desk-explainer.gif" alt="Desk in 30 seconds" width="900"></a></p>
+<p align="center"><sub>Desk in 30 seconds (<a href="assets/desk-explainer.mp4">full-quality video</a>). All screens show a demo book.</sub></p>
 
 **[⬇ Download the latest version](https://github.com/yannalbrecht/desk-releases/releases/latest)** · Mac (Apple Silicon and Intel, signed by Apple) and Windows · updates itself
 
+![Desk overview](assets/overview.png)
+
 <p align="center"><img src="assets/desk-tour.gif" alt="A tour through Desk" width="900"></p>
-<p align="center"><sub>A one-minute tour (<a href="assets/desk-tour.mp4">full-quality video</a>). All screens show a demo book.</sub></p>
+<p align="center"><sub>The real app, a one-minute tour (<a href="assets/desk-tour.mp4">full-quality video</a>).</sub></p>
 
 ---
 
