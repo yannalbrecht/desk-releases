@@ -110,4 +110,10 @@ Automatic. Desk checks when it starts, every 30 minutes and when you come back t
 
 ---
 
+## License
+
+Free to use for yourself. No redistribution, modification or reuse of any part of Desk without written permission. See [LICENSE](LICENSE.md); for anything beyond personal use, [send a licensing request](https://github.com/yannalbrecht/desk-releases/issues/new?title=Licensing%20request).
+
+---
+
 <sub>Desk shows information, not investment advice. Market data comes from free public sources (SEC EDGAR, ESEF filings, the ECB, the Bundesbank, FRED, Yahoo Finance and others), each named where it's used. Screenshots show a demo portfolio.</sub>
