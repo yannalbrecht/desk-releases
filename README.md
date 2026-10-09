@@ -1,6 +1,6 @@
 # Desk
 
-**A private portfolio desk that runs on your own computer.** See your whole book, how it's really doing against the index you could have bought instead, what it's exposed to, and what the great investors' rules would say about each holding. No account, no cloud, no subscription. Your data never leaves your machine.
+**A private portfolio desk that runs on your own computer.** See your whole book, how it's really doing against the index you could have bought instead, what it's exposed to, what the economy and markets around it are doing, and what the great investors' rules would say about each holding, or about any company you're looking at. No account, no cloud, no subscription. Your data never leaves your machine.
 
 <p align="center"><a href="assets/desk-explainer.mp4"><img src="assets/desk-explainer.gif" alt="Desk in 30 seconds" width="900"></a></p>
 <p align="center"><sub>Desk in 30 seconds (<a href="assets/desk-explainer.mp4">full-quality video</a>). All screens show a demo book.</sub></p>
@@ -17,7 +17,8 @@
 ## What it does
 
 ### Your book, honestly measured
-- **Overview** says in one sentence how you're doing against your benchmark (MSCI World by default, or your own blend), with today, month, year, max drawdown, Sharpe and a diversification score.
+- **Overview** opens with a **Briefing**: a few lines on what changed since you last looked and what needs attention, from your return against your benchmark (MSCI World by default, or your own blend) to big moves with their context ("its biggest drop since March"), results and dividends this week, and trend changes. Pick since you last looked, today, this week or this month.
+- **Your widgets** below it, arranged the way iPhone home-screen widgets are: 27 of them (returns, contributors, drawdown, allocation, regions, risk share, fear & greed, macro regime, signals, calendar and more) in small, medium and large sizes. Edit, drag, resize, stack, and keep one layout for your computer and one for your phone. Each widget is a chart with one short line that says what it shows.
 - **Positions** shows every holding with its weight, distance from the 200-day average, RSI, 52-week range and a 30-day sparkline. The default sort is by weight, not by gain, because ranking by gain nudges you to sell your best and worst names.
 - **Import from Trade Republic** (exact weights, average cost with fees, real buy dates), or set it up by hand with any broker. Crypto (Bitcoin, Ether and more) counts as a holding, priced in euros.
 - **Privacy switch** (the eye) hides every amount at a glance.
@@ -60,10 +61,21 @@ All are on from the start; switch off the ones you don't want. Each checks every
 
 ![Technical](assets/technical.png)
 
-### Markets
-Fear & Greed for stocks (CNN) and crypto, VIX and VSTOXX, gold in euros, silver, Brent, US and German 10-year yields, Shiller's CAPE, the high-yield credit spread, EUR/USD, Bitcoin and Ether. Each reading shows its source and when it was last updated, and none is shown as current once it's stale.
+### Markets: the weather around your book
+- **Six regime chips** sum up the macro picture in a word each (growth, inflation, rates and the yield curve, credit, liquidity and risk appetite), for the **euro area or the US**.
+- **Rates & central banks:** yield curves today against a year ago, the 10-year minus 2-year spread, and ECB and Fed policy rates.
+- **Inflation, growth and jobs:** core inflation against the 2 % target, US activity, unemployment with the Sahm rule, and two recession probabilities kept apart (a published one and one from the yield curve).
+- **Credit & liquidity:** a financial-stress gauge, credit spreads within their five-year range, and Fed net liquidity.
+- **Mood:** Fear & Greed for stocks (CNN, with its seven drivers) and crypto, plus VIX and VSTOXX, gold in euros, silver, Brent, Shiller's CAPE, EUR/USD, Bitcoin and Ether.
+- All from official free sources (FRED, the ECB, the Bundesbank), each with its source and date; nothing stale is shown as current.
 
 ![Markets](assets/markets.png)
+
+### Research: find, understand, decide
+- **Search any company** by name or ticker. It opens on a research page without being added to your book.
+- **One research page per company, in seven steps** with a rail to jump between them: snapshot, financials and quality (ten years of figures, F-Score, Altman Z), valuation against its own history, its industry and analysts' targets, industry and peers, ownership, results and dividends, and the viewpoint verdicts. **Watch**, add a **plan level** or set **alerts** from anywhere on the page.
+- **Your thesis** next to the verdicts: why you'd own it, what would prove you wrong, a fair-value range and a date to look again.
+- **Industries and Ideas:** about 3,300 US companies from SEC filings, ranked by revenue in 94 industries, each with its leaders, margins and your own names marked. Preset ideas (margin leaders, steady earners, the largest company in each industry where you hold nothing) and a **screener** that tells you which filter removed the most names and why each match qualified.
 
 ### Plan, watchlist and alerts
 Buy levels and zones, accumulation ladders, a swing book with stops and targets, and a watchlist that shows each name's viewpoint scores. Desk notifies you when a price reaches a level, a holding breaks a rule you set, or the data behind a number changes.
@@ -116,4 +128,4 @@ Free to use for yourself. No redistribution, modification or reuse of any part o
 
 ---
 
-<sub>Desk shows information, not investment advice. Market data comes from free public sources (SEC EDGAR, ESEF filings, the ECB, the Bundesbank, FRED, Yahoo Finance and others), each named where it's used. Screenshots show a demo portfolio.</sub>
+<sub>Desk shows information, not investment advice. Market data comes from free public sources (SEC EDGAR and its XBRL frames, ESEF filings, the ECB, the Bundesbank, FRED, Damodaran Online, Yahoo Finance and others), each named where it's used. Screenshots show a demo portfolio.</sub>
