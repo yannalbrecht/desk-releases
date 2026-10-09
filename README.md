@@ -73,7 +73,8 @@ All are on from the start; switch off the ones you don't want. Each checks every
 
 ### Research: find, understand, decide
 - **Search any company** by name or ticker. It opens on a research page without being added to your book.
-- **One research page per company, in seven steps** with a rail to jump between them: snapshot, financials and quality (ten years of figures, F-Score, Altman Z), valuation against its own history, its industry and analysts' targets, industry and peers, ownership, results and dividends, and the viewpoint verdicts. **Watch**, add a **plan level** or set **alerts** from anywhere on the page.
+- **One research page per company, in seven steps** with a rail to jump between them: snapshot, financials and quality (ten years of figures, F-Score, Altman Z), valuation against its own history, its industry and analysts' targets, industry and peers, ownership, results and dividends, and the viewpoint verdicts with their rules. **Watch**, add a **plan level** or set **alerts** from anywhere on the page, without leaving it.
+- **Its five main competitors, picked for you:** the largest companies in the same industry and line of business, fetched on their own the first time you open a company. See where it ranks on margin, return on capital, growth, P/E, free-cash-flow yield and F-Score, side by side, and add, remove or re-pick competitors.
 - **Your thesis** next to the verdicts: why you'd own it, what would prove you wrong, a fair-value range and a date to look again.
 - **Industries and Ideas:** about 3,300 US companies from SEC filings, ranked by revenue in 94 industries, each with its leaders, margins and your own names marked. Preset ideas (margin leaders, steady earners, the largest company in each industry where you hold nothing) and a **screener** that tells you which filter removed the most names and why each match qualified.
 
