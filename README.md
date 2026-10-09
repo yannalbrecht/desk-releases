@@ -32,12 +32,13 @@
 
 ### Analytics
 - **Returns** against MSCI World, the S&P 500 or your own blend; monthly heatmap; **risk** (drawdown, risk contribution per holding); **correlation** clusters.
+- **Charts** from the last 24 hours (5-minute bars, refreshing every 30 seconds) to the full history, or any dates you pick, with your buy levels, stops and trades drawn on.
 - **Fundamentals** for every stock: revenue, margins, cash flow and balance sheet from the companies' own filings (SEC EDGAR for US companies, ESEF annual reports for European ones), annual, half-year and quarterly. Upload a quarterly report (PDF) and Desk reads its figures.
 
 ![Fundamentals](assets/instrument-fundamentals.png)
 
 ### Viewpoints: the great investors' rules, applied to your holdings
-Switch on any of them, alone or together. Each checks every holding rule by rule with the number used and a link to its source, and comes with an explainer: who it's from, what it checks, how to read it, and where it falls short.
+All are on from the start; switch off the ones you don't want. Each checks every holding rule by rule with the number used and a link to its source, and comes with an explainer: who it's from, what it checks, how to read it, and where it falls short.
 
 | Viewpoint | After | What it checks |
 |---|---|---|
@@ -103,7 +104,9 @@ Choose **Import from Trade Republic**. Desk shows step by step how to export you
 
 ## Updates
 
-Automatic: Desk checks on start and every few hours, and shows **Restart to update** in Settings → Updates. Your data is never touched by an update.
+Automatic. Desk checks when it starts, every 30 minutes and when you come back to it, and downloads a new version straight away. A banner at the top of the app then counts down and restarts Desk into the new version, with **Restart now** or **Later** (Later installs it the next time you quit). Your data is never touched by an update.
+
+**Coming from 0.3.8?** That version can't start, so it can't update itself: download the latest release once and drag it into Applications (Mac) or run the installer (Windows). From then on Desk updates on its own.
 
 ---
 
