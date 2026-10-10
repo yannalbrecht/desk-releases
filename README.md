@@ -2,8 +2,8 @@
 
 **A private portfolio desk that runs on your own computer.** See your whole book, how it's really doing against the index you could have bought instead, what it's exposed to, what the economy and markets around it are doing, and what the great investors' rules would say about each holding, or about any company you're looking at. No account, no cloud, no subscription. Your data never leaves your machine.
 
-<p align="center"><a href="assets/desk-explainer.mp4"><img src="assets/desk-explainer.gif" alt="Desk in 40 seconds" width="900"></a></p>
-<p align="center"><sub>Desk in 40 seconds (<a href="assets/desk-explainer.mp4">full-quality video</a>). All screens show a demo book.</sub></p>
+<p align="center"><a href="assets/desk-explainer.mp4"><img src="assets/desk-explainer.gif" alt="Desk in 45 seconds" width="900"></a></p>
+<p align="center"><sub>Desk in 45 seconds (<a href="assets/desk-explainer.mp4">full-quality video</a>). All screens show a demo book.</sub></p>
 
 **[⬇ Download the latest version](https://github.com/yannalbrecht/desk-releases/releases/latest)** · Mac (Apple Silicon and Intel, signed by Apple) and Windows · updates itself
 
@@ -78,8 +78,15 @@ All are on from the start; switch off the ones you don't want. Each checks every
 - **Your thesis** next to the verdicts: why you'd own it, what would prove you wrong, a fair-value range and a date to look again.
 - **Industries and Ideas:** about 3,300 US companies from SEC filings, ranked by revenue in 94 industries, each with its leaders, margins and your own names marked. Preset ideas (margin leaders, steady earners, the largest company in each industry where you hold nothing) and a **screener** that tells you which filter removed the most names and why each match qualified.
 
-### Plan, watchlist and alerts
-Buy levels and zones, accumulation ladders, a swing book with stops and targets, and a watchlist that shows each name's viewpoint scores. Desk notifies you when a price reaches a level, a holding breaks a rule you set, or the data behind a number changes.
+### Plan and watchlist
+Buy levels and zones, accumulation ladders, a swing book with stops and targets, and a watchlist that shows each name's viewpoint scores.
+
+### Alerts: told when it matters
+- **Five questions set it up:** what to watch, how much you want to hear, which economy (euro area, US or both), which markets you follow, and when. Each answer shows an example of what you'd get, and you finish with your alerts in plain sentences.
+- **Four families:** **Positions** (stops, targets, plan levels), **your book** (big days, a drawdown from its high, falling behind your benchmark, one holding growing too large, a Sunday-evening summary of your week), **economy and markets** (inflation prints, central-bank rate moves, a regime word changing, the yield curve inverting, recession signals, credit stress, a VIX spike, fear & greed at an extreme) and **your research** (a price entering your fair-value range, a thesis due for a revisit, a viewpoint verdict flipping, a new trend signal, new names in an idea, a big move in a competitor).
+- **Only on a change**, never because a level just stays where it is. Turning alerts on never floods you: Desk first notes where things stand.
+- **Now, today or in the Briefing:** some alerts push at once, some after your quiet hours, the rest become a line in your morning Briefing. At night, only a stop can wake you.
+- **Less like this** on any alert raises its bar one step (or moves it to the Briefing), with Undo. **Mute** silences it for a week. Bells on the Markets regime words, and a question when you save a fair-value range.
 
 ### Data you can trust
 - A nightly **Data check** compares sources, flags figures that disappear, and spots periods where results are out but figures haven't arrived.
